@@ -1,0 +1,8 @@
+# valid manifest modes ['active', 'demo']
+dev:
+  mode: "enable"
+  version: v1.2.26
+int:
+  mode: "debug"
+prd:
+  mode: "debug"
