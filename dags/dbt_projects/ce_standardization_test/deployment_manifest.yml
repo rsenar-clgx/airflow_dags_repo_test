@@ -1,8 +1,9 @@
 dev:
   mode: "enable"
-  version: v0.0.19
+  version: v0.0.18
 int:
   mode: "debug"
-  version: v0.0.19-pre-release
+  version: v0.0.18-pre-release
 prd:
   mode: "debug"
+  version: v0.0.19-release
